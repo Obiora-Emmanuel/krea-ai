@@ -29,14 +29,14 @@ const leftSlides: Slide[] = [
     title: "WAN 2.2 — Studio",
     subtitle: "WORKFLOWS",
     cta: "Open Studio",
-    img: "/p1.webp",
+    img: "/pics/p1.jpg",
     caption: "Build repeatable, controllable image workflows.",
   },
   {
     title: "WAN 2.2",
     subtitle: "IMAGE GENERATION",
     cta: "Try WAN 2.2",
-    img: "/p2.jpg",
+    img: "/pics/p2.jpg",
     caption:
       "Generate complex images with the brand-new model and control realistic textures.",
   },
@@ -44,7 +44,7 @@ const leftSlides: Slide[] = [
     title: "WAN 2.2",
     subtitle: "IMAGE GENERATION",
     cta: "Try WAN 2.2",
-    img: "/p3.jpg",
+    img: "/pics/p3.jpg",
     caption:
       "Generate complex images with the brand-new model and control realistic textures.",
   },
@@ -52,7 +52,7 @@ const leftSlides: Slide[] = [
     title: "WAN 2.2",
     subtitle: "IMAGE GENERATION",
     cta: "Try WAN 2.2",
-    img: "/p4.webp",
+    img: "/pics/p4.jpg",
     caption:
       "Generate complex images with the brand-new model and control realistic textures.",
   },
@@ -60,7 +60,7 @@ const leftSlides: Slide[] = [
     title: "WAN 2.2",
     subtitle: "IMAGE GENERATION",
     cta: "Try WAN 2.2",
-    img: "/p5.jpg",
+    img: "/pics/p5.jpg",
     caption:
       "Generate complex images with the brand-new model and control realistic textures.",
   },
@@ -68,7 +68,7 @@ const leftSlides: Slide[] = [
     title: "WAN 2.2",
     subtitle: "IMAGE GENERATION",
     cta: "Try WAN 2.2",
-    img: "/p6.jpg",
+    img: "/pics/p6.jpg",
     caption:
       "Generate complex images with the brand-new model and control realistic textures.",
   },
@@ -76,7 +76,7 @@ const leftSlides: Slide[] = [
     title: "WAN 2.2",
     subtitle: "IMAGE GENERATION",
     cta: "Try WAN 2.2",
-    img: "/p7.jpg",
+    img: "/pics/p7.jpg",
     caption:
       "Generate complex images with the brand-new model and control realistic textures.",
   },
@@ -87,7 +87,7 @@ const rightSlides: Slide[] = [
     title: "FLUX.1 Krea",
     subtitle: "OPEN SOURCE MODEL",
     cta: "Read more",
-    img: "/p3.jpg",
+    img: "/pics/p3.jpg",
     caption:
       "We’re making the weights to our FLUX model open-source. Download and explore.",
   },
@@ -95,21 +95,21 @@ const rightSlides: Slide[] = [
     title: "Docs",
     subtitle: "GUIDES",
     cta: "Read docs",
-    img: "/p7.jpg",
+    img: "/pics/p7.jpg",
     caption: "Model insights, usage tips, and examples.",
   },
   {
     title: "Docs",
     subtitle: "GUIDES",
     cta: "Read docs",
-    img: "/p5.jpg",
+    img: "/pics/p5.jpg",
     caption: "Model insights, usage tips, and examples.",
   },
   {
     title: "Docs",
     subtitle: "GUIDES",
     cta: "Read docs",
-    img: "/p6.jpg",
+    img: "/pics/p6.jpg",
     caption: "Model insights, usage tips, and examples.",
   },
 ];
